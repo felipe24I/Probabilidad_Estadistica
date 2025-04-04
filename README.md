@@ -1,2 +1,2 @@
 # Probabilidad_Estadistica
-En este repositorio se econtrará infromación teórica acerca de la materia Probabilidad y Estadística
+En este repositorio se econtrará infomación teórica acerca de la materia Probabilidad y Estadística
